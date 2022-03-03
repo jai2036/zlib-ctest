@@ -11,7 +11,8 @@ Inspiration, code snippets, etc.
 1. Install docker
 2. git clone <current repository>
 
-**How to run**
+**How to run**:
+
 Go to zlib-ctest (src dir) and run following commands
 
 Build docker image with: `docker build -t app .`
