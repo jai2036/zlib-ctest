@@ -23,7 +23,7 @@ Which will provide you following output:
 Initial size: 100
 Compressed size: 21
 Uncompressed size: 100
-Great Success
+Wonderful!
 ```
 
 Have fun!

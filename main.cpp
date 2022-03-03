@@ -35,7 +35,7 @@ int main(int argc, char* argv[])
 		{
 			printf("Uncompressed size: %d\n", nDataSize);
 			if (memcmp(pUncompressedData, pData, nDataSize) == 0)
-				printf("Great Success\n");
+				printf("Wonderful!\n");
 		}
 		delete [] pUncompressedData;
 	}
