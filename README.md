@@ -15,7 +15,8 @@ Inspiration, code snippets, etc.
 
 Go to zlib-ctest (src dir) and run following commands
 
-Build docker image with: `docker build -t app .`
+Build docker image with: `docker build . -t app`
+
 You can then start the image in a new container with:  `docker run --rm app`
 
 Which will provide you following output:
